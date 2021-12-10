@@ -1,0 +1,17 @@
+body{
+    background: black;
+}
+
+.gamecolumn{
+    color: white;
+}
+
+.head{
+    background-image:url(img/gKSftj.jpg);
+    height: 450px;
+    width: auto;
+    color: white;
+    
+    
+}
+
