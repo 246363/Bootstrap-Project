@@ -4,6 +4,7 @@ body{
 
 .gamecolumn{
     color: white;
+    text-align: center;
 }
 
 .head{
@@ -15,3 +16,8 @@ body{
     
 }
 
+.exp{
+    text-align: left;
+    color: #dc3545;
+    font-size: 20px;
+}
