@@ -19,13 +19,18 @@ body{
 .exp{
     text-align: left;
     color: #dc3545;
-    font-size: 15px;
+    font-size: 18px;
+    margin: 5%;
 }
 
 .exp2{
     text-align: center;
     color:lightsteelblue;
-    font-size: 15px;
+    font-size: 17px;
+    padding-bottom: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    text-align: left;
 }
 
 .bee{
@@ -45,6 +50,23 @@ body{
 .essential{
 padding-top: 20px;
 }
+
+.qexplain{
+    color: #20c997;
+    padding: 5%;
+}
+
+.title{
+    padding-top: 5%;
+}
+
+.about{
+    background-image:url(img/ps4waves2.jpg);
+    height: fill;
+    width: fill;
+    color: white;
+}
+
 
 
 
