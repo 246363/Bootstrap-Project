@@ -1,6 +1,9 @@
 body{
     background: black;
+    font-family: 'Roboto', sans-serif;
 }
+
+
 
 .gamecolumn{
     color: white;
@@ -19,7 +22,7 @@ body{
 .exp{
     text-align: left;
     color: #dc3545;
-    font-size: 18px;
+    font-size: 20px;
     margin: 5%;
 }
 
@@ -48,7 +51,8 @@ body{
 }
 
 .essential{
-padding-top: 20px;
+padding-top: 1.5%;
+padding-bottom: 1.5%;
 }
 
 .qexplain{
